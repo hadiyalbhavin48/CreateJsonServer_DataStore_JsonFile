@@ -1,0 +1,18 @@
+{
+  "jsonData": [
+    {
+      "id": 1,
+      "name": "bhavin",
+      "email": "b@gmail.com",
+      "phone": "0123456",
+      "Active": "true"
+    },
+    {
+      "id": 2,
+      "name": "parth",
+      "email": "parth@12",
+      "phone": "1234",
+      "Active": true
+    }
+  ]
+}
